@@ -25,8 +25,7 @@ I am 𝐑𝐢𝐡𝐚𝐝 𝐉𝐚𝐡𝐚𝐧 𝐎𝐩𝐮 [ rihadjahanopu ] a 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
@@ -51,14 +50,10 @@ I am 𝐑𝐢𝐡𝐚𝐝 𝐉𝐚𝐡𝐚𝐧 𝐎𝐩𝐮 [ rihadjahanopu ] a 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rihadjahanopu&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rihadjahanopu&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rihadjahanopu&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rihadjahanopu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rihadjahanopu&icon=0&color=5)](https://visitcount.itsvg.in)
