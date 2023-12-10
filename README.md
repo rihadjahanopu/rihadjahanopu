@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" height="200" alt="Rihad Jahan Opu">
+  <img src="[https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png](https://i.postimg.cc/662Gv9mn/Untitled-11111.png)" height="200" alt="Rihad Jahan Opu">
 </p>
 
 <!-- Title -->
