@@ -32,7 +32,7 @@ Hello, I'm Rihad Jahan Opu, a tech enthusiast and full-stack web developer based
 
 ## 🚀 Professional Journey
 
-My odyssey in the digital realm began immediately after completing my higher-secondary education. Fueled by an insatiable thirst for knowledge, I delved into the world of web development. Eager to expand my skill set, I embarked on a diploma in web development at "Shahjalal University of Science and Technology" in late 2017, marking my transition into the world of full-stack development.
+My odyssey in the digital realm began immediately after completing my higher-secondary education. Fueled by an insatiable thirst for knowledge, I delved into the world of web development. Eager to expand my skill set, I embarked on a diploma in web development at "Shahjalal University of Science and Technology" in late 2021, marking my transition into the world of full-stack development.
 
 <!-- Professional Accomplishments -->
 
