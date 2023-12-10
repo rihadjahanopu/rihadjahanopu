@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/MTkJ3mzW/Untitled-122.png" height="200" alt="Rihad Jahan Opu">
+  <img src="https://i.postimg.cc/TY5qfjx8/Untitled-13.png" height="200" alt="Rihad Jahan Opu">
 </p>
 
 <!-- Title -->
