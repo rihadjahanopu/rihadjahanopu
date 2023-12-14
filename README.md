@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/zv1zYYpx/git-covernew.png" height="200" alt="Rihad Jahan Opu">
+  <img src="https://i.postimg.cc/sfJhV3ZF/git-coverinlock.png" height="200" alt="Rihad Jahan Opu">
 </p>
 
 <!-- Title -->
