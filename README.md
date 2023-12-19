@@ -103,16 +103,6 @@ I have had the privilege of working on thrilling projects with companies in the 
 
 Feel free to reach out on various social media platforms and my website. Let's collaborate on exciting projects or engage in thought-provoking conversations about the latest trends in the tech world. Together, we can pave the way to a brighter, tech-savvy future!
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rihadjahanopu&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=rihadjahanopu&icon=2&color=1)](https://visitcount.itsvg.in)
-
-
 <details>
 <summary>
   You wanna know more about me?
@@ -120,14 +110,20 @@ Feel free to reach out on various social media platforms and my website. Let's c
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Rihad Jahan Opu Youtube Channel exists!
 
-#### What is Learn with Sumit?
+#### What is Rihad Jahan Opu?
 
-"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
+"Rihad Jahan Opu" is all about teaching web development skills and techniques efficiently and practically. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Rihad Jahan Opu" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
 
 #### Github Stats
-
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
+![](https://github-readme-stats.vercel.app/api?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rihadjahanopu&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
+---
+[![](https://visitcount.itsvg.in/api?id=rihadjahanopu&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
+
