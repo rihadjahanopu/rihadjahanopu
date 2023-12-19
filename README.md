@@ -6,7 +6,7 @@
 
 <!-- Title -->
 <h1 align="center">{ Rihad Jahan Opu }</h1>
-<br>
+<br><br>
 
 <!-- Subtitle -->
 <p align="center">
