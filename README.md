@@ -1,7 +1,7 @@
 
 <!-- Header Image -->
 <p align="center">
-  <img src="mylovecodeing.png" height="20%" alt="Rihad Jahan Opu">
+  <img src="mylovecodeing.png" height="350" alt="Rihad Jahan Opu">
 </p>
 <br>
 <!-- Title -->
