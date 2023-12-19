@@ -1,4 +1,3 @@
-![Github Banner](mylovecodeing.png)
 
 <!-- Header Image -->
 <p align="center">
