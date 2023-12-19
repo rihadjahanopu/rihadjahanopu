@@ -103,6 +103,16 @@ I have had the privilege of working on thrilling projects with companies in the 
 
 Feel free to reach out on various social media platforms and my website. Let's collaborate on exciting projects or engage in thought-provoking conversations about the latest trends in the tech world. Together, we can pave the way to a brighter, tech-savvy future!
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rihadjahanopu&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rihadjahanopu&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
 <details>
 <summary>
   You wanna know more about me?
