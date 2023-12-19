@@ -2,7 +2,7 @@
 
 <!-- Header Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/wTKVNttZ/mylovecodeing.png" height="400" alt="Rihad Jahan Opu">
+  <img src="mylovecodeing.png" height="400" alt="Rihad Jahan Opu">
 </p>
 
 <!-- Title -->
