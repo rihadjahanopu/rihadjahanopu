@@ -3,7 +3,7 @@
 <p align="center">
   <img src="mylovecodeing.png" height="400" alt="Rihad Jahan Opu">
 </p>
-<br><br>
+<br>
 <!-- Title -->
 <h1 align="center">{ Rihad Jahan Opu }</h1>
 
