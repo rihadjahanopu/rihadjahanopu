@@ -1,8 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rihad Jahan Opu
-=======================================================================================================================================
 
-Full-Stack Web Developer
-------------------------
 <!-- Header Image -->
 <p align="center">
   <img src="mylovecodeing.png" height="350" alt="Rihad Jahan Opu">
