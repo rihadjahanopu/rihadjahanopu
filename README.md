@@ -27,7 +27,7 @@
 
 <!-- About Me -->
 
-Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
+Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend 
 =======================================================================================================================================
 
 ## My name is Rihad Jahan Opu Full-Stack Web Developer
