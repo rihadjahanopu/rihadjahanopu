@@ -66,7 +66,7 @@ I am an active member of the open-source community and I regularly contribute to
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Website](http://rihadjahanopu.com)
 * 🧠  I'm learning Next js
-* 🤝  I'm open to collaborating on Open-Source
+* 🤝  I'm open to collaborating on Open-Source Project
 * ⚡  I am also digital marketer
 <br><br>
 
