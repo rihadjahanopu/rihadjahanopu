@@ -69,6 +69,13 @@ I am an active member of the open-source community and I regularly contribute to
 * 🤝  I'm open to collaborating on Open-Source
 * ⚡  I am also digital marketer
 <br><br>
+
+<a href="https://www.github.com/rihadjahanopu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rihadjahanopu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/rihadjahanopu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/rihadjahanopu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/rihadjahanopu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/rihadjahanopu?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<br>
 <!-- Professional Journey -->
 
 ## 🚀 Professional Journey
