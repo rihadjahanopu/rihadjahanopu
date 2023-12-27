@@ -43,7 +43,7 @@ Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend
 
 I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done
 
-<br>💻𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:<br><br>
+<br>💻𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:<br>
 ------------------------
 
 * 🌱 Design, develop, and maintain web applications<br>
@@ -52,7 +52,7 @@ I am also passionate about learning new technologies and staying up-to-date with
 * 🌱 Troubleshoot and debug code<br>
 * 🌱 Deploy and maintain applications in production.
 
-<br>💻𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:<br><br>
+<br>💻𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:<br>
 ------------------------
 
 * 🤝 Bachelor's degree in Computer Science or a related field<br>
