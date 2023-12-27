@@ -39,7 +39,7 @@ Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend
 * ⚡ 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, Python, Django, PostgreSQL<br>
 * ⚡ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: PostgreSQL, MySQL, MongoDB<br>
 * ⚡ 𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴: AWS, Azure, GCP<br>
-* ⚡ 𝗗𝗲𝘃𝗢𝗽𝘀: Git, GitHub, GitLab, Docker, Kubernetes<br><br>
+* ⚡ 𝗗𝗲𝘃𝗢𝗽𝘀: Git, GitHub, GitLab, Docker, Kubernetes<br>
 
 I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done
 
