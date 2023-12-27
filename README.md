@@ -34,24 +34,25 @@
 * ⚡ 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, Python, Django, PostgreSQL<br>
 * ⚡ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: PostgreSQL, MySQL, MongoDB<br>
 * ⚡ 𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴: AWS, Azure, GCP<br>
-* ⚡ 𝗗𝗲𝘃𝗢𝗽𝘀: Git, GitHub, GitLab, Docker, Kubernetes<br><br>I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done.
-## <br><br>💻𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:<br><br>
+* ⚡ 𝗗𝗲𝘃𝗢𝗽𝘀: Git, GitHub, GitLab, Docker, Kubernetes<br><br>I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done<br><br>
+##💻𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:<br><br>
 * 🌱 Design, develop, and maintain web applications<br>
 * 🌱 Work with cross-functional teams to deliver high-quality products<br>
 * 🌱 Write clean, efficient, and testable code<br>
 * 🌱 Troubleshoot and debug code<br>
-* 🌱 Deploy and maintain applications in production.
-##  <br><br>💻𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:<br><br>
+* 🌱 Deploy and maintain applications in production.<br><br>
+##💻𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:<br><br>
 * 🤝 Bachelor's degree in Computer Science or a related field<br>
 * 🤝 2+ years of experience in full-stack development<br>
 * 🤝 Strong understanding of front-end and back-end development technologies<br>
 * 🤝 Experience with cloud computing and DevOps tools<br>
 * 🤝 Excellent problem-solving and debugging skills<br>
-* 🤝 Ability to work independently and as part of a team
-
-##<br><br>𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:<br><br>
+* 🤝 Ability to work independently and as part of a team<br><br>
+##𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:<br><br>
 I am an active member of the open-source community and I regularly contribute to popular projects. I am also a speaker at tech conferences and I write blog posts about web development.If you are looking for a Full Stack Developer who is passionate about building high-quality web applications, I encourage you to reach out to me. I’m currently working on
 <br><br>
+
+
 * :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 * :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 * 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
