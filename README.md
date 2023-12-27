@@ -36,7 +36,7 @@
 * ⚡ 𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴: AWS, Azure, GCP<br>
 * ⚡ 𝗗𝗲𝘃𝗢𝗽𝘀: Git, GitHub, GitLab, Docker, Kubernetes<br><br>
 
-<br><br>I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done<br><br>
+I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done
 
 ###<br><br>💻𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:<br><br>
 * 🌱 Design, develop, and maintain web applications<br>
