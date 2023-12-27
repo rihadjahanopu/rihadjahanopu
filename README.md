@@ -6,6 +6,7 @@
 <br>
 <!-- Title -->
 <h1 align="center"> Rihad Jahan Opu </h1>
+=======================================================================================================================================
 
 
 <!-- Subtitle -->
@@ -28,12 +29,8 @@
 
 ## Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
 
-Hi !<img src="hello.gif" width="28px" alt="hi">My name is Rihad Jahan Opu
+My name is Rihad Jahan Opu Full-Stack Web Developer
 =======================================================================================================================================
-
-Full-Stack Web Developer
-------------------------
-
 
 🔭 Hello, I'm Rihad Jahan Opu, a tech enthusiast and full-stack web developer with over 3 years of experience in building and maintaining high-traffic web applications. I have a deep understanding of both front-end and back-end development, and I am proficient in a variety of technologies and languages, 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠:<br><br>	
 * ⚡ 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS<br>
