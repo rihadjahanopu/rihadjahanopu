@@ -34,11 +34,10 @@
 * :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 * :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 * 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-* :e-mail: &emsp;How to reach me: itrihad@gmail.com<br/>
+* :e-mail: &emsp;You can contact me at [rihadjahanopu@gmail.com](mailto:rihadjahanopu@gmail.com)<br/>
 * ⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Gladepik.
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Website](http://rihadjahanopu.com)
-* ✉️  You can contact me at [rihadjahanopu@gmail.com](mailto:rihadjahanopu@gmail.com)
 * 🧠  I'm learning Next js
 * 🤝  I'm open to collaborating on Open-Source
 * ⚡  I am also digital marketer
