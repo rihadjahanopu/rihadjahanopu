@@ -43,7 +43,7 @@ Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend
 
 I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done
 
-<br>💻𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:
+💻𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:
 ------------------------
 
 * 🌱 Design, develop, and maintain web applications<br>
@@ -52,7 +52,7 @@ I am also passionate about learning new technologies and staying up-to-date with
 * 🌱 Troubleshoot and debug code<br>
 * 🌱 Deploy and maintain applications in production.
 
-<br>💻𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
+💻𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
 ------------------------
 
 * 🤝 Bachelor's degree in Computer Science or a related field<br>
@@ -62,7 +62,7 @@ I am also passionate about learning new technologies and staying up-to-date with
 * 🤝 Excellent problem-solving and debugging skills<br>
 * 🤝 Ability to work independently and as part of a team
 
-<br>👌𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
+👌𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 ------------------------
 
 I am an active member of the open-source community and I regularly contribute to popular projects. I am also a speaker at tech conferences and I write blog posts about web development.If you are looking for a Full Stack Developer who is passionate about building high-quality web applications, I encourage you to reach out to me. I’m currently working on
