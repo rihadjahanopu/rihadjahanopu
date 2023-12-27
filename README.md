@@ -58,7 +58,7 @@ I am also passionate about learning new technologies and staying up-to-date with
 * 🤝 Excellent problem-solving and debugging skills<br>
 * 🤝 Ability to work independently and as part of a team
 
-<br>##👌𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:<br><br>
+<br>👌𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:<br><br>
 
 I am an active member of the open-source community and I regularly contribute to popular projects. I am also a speaker at tech conferences and I write blog posts about web development.If you are looking for a Full Stack Developer who is passionate about building high-quality web applications, I encourage you to reach out to me. I’m currently working on
 <br><br>
