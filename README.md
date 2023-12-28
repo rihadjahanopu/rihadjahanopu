@@ -52,7 +52,7 @@ I am also passionate about learning new technologies and staying up-to-date with
 * 🌱 &emsp;Troubleshoot and debug code<br>
 * 🌱 &emsp;Deploy and maintain applications in production.
 
-💻𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
+🧑‍💻𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
 ------------------------
 
 * 🤝 &emsp;Bachelor's degree in Computer Science or a related field<br>
@@ -62,13 +62,13 @@ I am also passionate about learning new technologies and staying up-to-date with
 * 🤝 &emsp;Excellent problem-solving and debugging skills<br>
 * 🤝 &emsp;Ability to work independently and as part of a team
 
-👌𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
+🪪𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 ------------------------
 * :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 * :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 * 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
 * :e-mail: &emsp;You can contact me at [rihadjahanopu@gmail.com](mailto:rihadjahanopu@gmail.com)<br/>
-* ⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Gladepik.
+* 🏢 &emsp;Fun fact: I co-founded my largest digital marketing agency Gladepik.
 * 🌍 &emsp;I'm based in Bangladesh
 * 🖥️ &emsp;See my portfolio at [Website](http://rihadjahanopu.com)
 * 🧠 &emsp;I'm learning Next js
