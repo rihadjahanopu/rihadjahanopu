@@ -62,7 +62,7 @@ I am also passionate about learning new technologies and staying up-to-date with
 * 🤝 &emsp;Excellent problem-solving and debugging skills<br>
 * 🤝 &emsp;Ability to work independently and as part of a team
 
-🪪𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
+🪪 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 ------------------------
 * :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 * :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
