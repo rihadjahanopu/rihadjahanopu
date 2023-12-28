@@ -74,9 +74,7 @@ I am also passionate about learning new technologies and staying up-to-date with
 * 🧠 &emsp;I'm learning Next js
 * 🤝 &emsp;I'm open to collaborating on Open-Source Project
 * ⚡ &emsp;I'm also digital marketer
-
-
-<br><br>
+<br>
 I am an active member of the open-source community and I regularly contribute to popular projects. I am also a speaker at tech conferences and I write blog posts about web development.If you are looking for a Full Stack Developer who is passionate about building high-quality web applications, I encourage you to reach out to me. I’m currently working on
 <br><br>
 
