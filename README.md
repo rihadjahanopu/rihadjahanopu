@@ -70,15 +70,15 @@ I am an active member of the open-source community and I regularly contribute to
 
 
 * :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-* :computer:Most used line of code `console.log("hello world")` <br/>
+* :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 * 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
 * :e-mail: &emsp;You can contact me at [rihadjahanopu@gmail.com](mailto:rihadjahanopu@gmail.com)<br/>
 * ⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Gladepik.
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Website](http://rihadjahanopu.com)
-* 🧠  I'm learning Next js
-* 🤝  I'm open to collaborating on Open-Source Project
-* ⚡  I am also digital marketer
+* 🌍 &emsp;I'm based in Bangladesh
+* 🖥️ &emsp;See my portfolio at [Website](http://rihadjahanopu.com)
+* 🧠 &emsp;I'm learning Next js
+* 🤝 &emsp;I'm open to collaborating on Open-Source Project
+* ⚡ &emsp;I am also digital marketer
 <br><br>
 
 <a href="https://www.github.com/rihadjahanopu" target="_blank" rel="noreferrer"><img
