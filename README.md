@@ -192,7 +192,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 </details>
 
-![](https://visitcount.itsvg.in/api?id=rihadjahanopu&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rihadjahanopu&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
 
