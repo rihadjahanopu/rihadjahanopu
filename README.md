@@ -165,8 +165,8 @@ I have had the privilege of working on thrilling projects with companies in the 
 
 Feel free to reach out on various social media platforms and my website. Let's collaborate on exciting projects or engage in thought-provoking conversations about the latest trends in the tech world. Together, we can pave the way to a brighter, tech-savvy future!
 
-<div align="center">
-  <h1>🐍 My Contributions 🐍</h1>
+<div align="left">
+  <h2>🐍 My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 <br/><br/>
