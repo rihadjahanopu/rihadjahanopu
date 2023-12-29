@@ -160,7 +160,7 @@ I have had the privilege of working on thrilling projects with companies in the 
 </p>
 
 <!-- Connect Section -->
-
+[![](https://visitcount.itsvg.in/api?id=rihadjahanopu&icon=2&color=1)](https://visitcount.itsvg.in)
 ## 📬 Let's Connect
 
 Feel free to reach out on various social media platforms and my website. Let's collaborate on exciting projects or engage in thought-provoking conversations about the latest trends in the tech world. Together, we can pave the way to a brighter, tech-savvy future!
