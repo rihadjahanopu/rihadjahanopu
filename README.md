@@ -3,7 +3,6 @@
  <p align="center">
   <img src="git-cover.gif" height="auto" width="100%" alt="Rihad Jahan Opu"> 
 </p>
-<br>
 <!-- Title -->
 <h1 align="center"> Rihad Jahan Opu </h1>
 
