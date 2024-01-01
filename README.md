@@ -5,9 +5,6 @@
 </p>
 <!-- Title -->
 <h1 align="center">Rihad Jahan Opu</h1>
-
-# `<>` Rihad Jahan Opu  `</>`
-
 <!-- Subtitle -->
 <p align="center">
   💻 Passionate Full-Stack Web Developer | 🚀 Tech Enthusiast
