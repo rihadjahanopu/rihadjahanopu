@@ -6,7 +6,7 @@
 <!-- Title -->
 <h1 align="center">Rihad Jahan Opu</h1>
 
-`<>` Rihad Jahan Opu  `</>`
+# `<>` Rihad Jahan Opu  `</>`
 
 <!-- Subtitle -->
 <p align="center">
