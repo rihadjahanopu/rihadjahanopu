@@ -2,7 +2,9 @@
 <!-- Header Image -->
 <p align="center">
   <img src="mylovecodeing.png" height="350" alt="Rihad Jahan Opu">
-  <video src="202401010918.mp4" autoplay muted loop alt="Rihad Jahan Opu" ></video>
+  <video autoplay muted loop alt="Rihad Jahan Opu" >
+    <source src="202401010918.mp4" type="video/mp4" markdown="1" >
+  </video>
 </p>
 <br>
 <!-- Title -->
