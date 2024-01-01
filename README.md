@@ -1,11 +1,11 @@
 
 <!-- Header Image -->
 <p align="center">
-  <img src="mylovecodeing.png" height="350" alt="Rihad Jahan Opu">
-  <video autoplay muted loop alt="Rihad Jahan Opu" >
+  <img src="mylovecodeing.png" height="350" alt="Rihad Jahan Opu"> 
+</p>
+<video autoplay muted loop alt="Rihad Jahan Opu" >
     <source src="202401010918.mp4" type="video/mp4" markdown="1" >
   </video>
-</p>
 <br>
 <!-- Title -->
 <h1 align="center"> Rihad Jahan Opu </h1>
