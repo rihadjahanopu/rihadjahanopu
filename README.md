@@ -1,7 +1,7 @@
 
 <!-- Header Image -->
  <p align="center">
-  <img src="git-cover.gif" height="500" width="100%" alt="Rihad Jahan Opu"> 
+  <img src="git-cover.gif" height="450" width="100%" alt="Rihad Jahan Opu"> 
 </p>
 <br>
 <!-- Title -->
