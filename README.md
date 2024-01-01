@@ -3,7 +3,7 @@
 <!-- <p align="center">
   <img src="mylovecodeing.png" height="350" alt="Rihad Jahan Opu"> 
 </p> -->
-<video src="202401010918.mp4" autoplay muted loop alt="Rihad Jahan Opu" ></video>
+<video src="./202401010918.mp4" autoplay muted loop alt="Rihad Jahan Opu" ></video>
 <br>
 <!-- Title -->
 <h1 align="center"> Rihad Jahan Opu </h1>
