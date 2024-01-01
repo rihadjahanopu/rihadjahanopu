@@ -33,7 +33,7 @@ Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend
 
 
 
-🔭 Hello, I'm Rihad Jahan Opu, a tech enthusiast and full-stack web developer with over 3 years of experience in building and maintaining high-traffic web applications. I have a deep understanding of both front-end and back-end development, and I am proficient in a variety of technologies and languages, 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠:<br>
+🔭 Hello, I'm Rihad Jahan Opu, a tech enthusiast and full-stack web developer with over 3 years of experience in building and maintaining high-traffic web applications. I have a deep understanding of both front-end and back-end development, and I am proficient in a variety of technologies and languages, ***𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠:<br>
 * ⚡ &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS<br>
 * ⚡ &emsp;𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, Python, Django, PostgreSQL<br>
 * ⚡ &emsp;𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: PostgreSQL, MySQL, MongoDB<br>
