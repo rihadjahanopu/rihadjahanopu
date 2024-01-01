@@ -66,7 +66,7 @@ I am also passionate about learning new technologies and staying up-to-date with
 * :e-mail: &emsp;You can contact me at [itrihad@gmail.com](mailto:itrihad@gmail.com)<br/>
 * 🏢 &emsp;Fun fact: I co-founded my largest digital marketing agency Gladepik.
 * 🌍 &emsp;I'm based in Bangladesh
-* 🖥️ &emsp;See my portfolio at [Website](http://rihadjahanopu.com)
+* 🖥️ &emsp;See my portfolio at [`Website`](http://rihadjahanopu.com)
 * 🧠 &emsp;I'm learning Next js
 * 🤝 &emsp;I'm open to collaborating on Open-Source Project
 * ⚡ &emsp;I'm also digital marketer
