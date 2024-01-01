@@ -63,7 +63,7 @@ I am also passionate about learning new technologies and staying up-to-date with
 * :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 * :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 * 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-* :e-mail: &emsp;You can contact me at [itrihad@gmail.com](mailto:itrihad@gmail.com)<br/>
+* :e-mail: &emsp;You can contact me at [`itrihad@gmail.com`](mailto:itrihad@gmail.com)<br/>
 * 🏢 &emsp;Fun fact: I co-founded my largest digital marketing agency Gladepik.
 * 🌍 &emsp;I'm based in Bangladesh
 * 🖥️ &emsp;See my portfolio at [`Website`](http://rihadjahanopu.com)
