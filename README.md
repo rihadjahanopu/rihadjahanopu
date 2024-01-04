@@ -41,6 +41,19 @@ Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend
 
 I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done
 
+💻My Skills and Experience
+--------------------------
+
+* Web Development Proficiency: Possess extensive experience in building modern web applications using HTML, CSS, JavaScript (ES6+), ReactJS, NodeJS, ExpressJS, and various UI/UX libraries.<br>
+* Front-End Mastery: Adept at crafting clean, responsive, and user-friendly interfaces, ensuring optimal performance across devices and browsers.<br>
+* Back-End Excellence: Capable of developing robust and scalable server-side applications, implementing APIs, and working with databases like MySQL and PostgreSQL.<br>
+* WebAssembly Pioneer: Understand the potential of WebAssembly and its ability to enhance application performance and functionality. Familiar with languages like Rust and C/C++ for compiling to WebAssembly.<br>
+* Blockchain Enthusiast: Possess a keen understanding of blockchain technology and its applications in various fields. Comfortable working with popular platforms like Ethereum and Hyperledger Fabric.<br>
+* Problem-Solving Skills: Strong analytical and problem-solving skills, adept at identifying technical challenges and implementing efficient solutions.<br>
+* Communication & Collaboration: Excellent communication and collaboration skills, enabling seamless interaction with team members and stakeholders.<br>
+
+I am excited by the opportunity to join Redmi and leverage my skills and knowledge to develop innovative and cutting-edge web solutions. I am confident that my WebAssembly and blockchain expertise.
+
 💻𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:
 ------------------------
 
