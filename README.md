@@ -44,13 +44,13 @@ I am also passionate about learning new technologies and staying up-to-date with
 💻My Skills and Experience
 --------------------------
 
-* Web Development Proficiency: Possess extensive experience in building modern web applications using HTML, CSS, JavaScript (ES6+), ReactJS, NodeJS, ExpressJS, and various UI/UX libraries.<br>
-* Front-End Mastery: Adept at crafting clean, responsive, and user-friendly interfaces, ensuring optimal performance across devices and browsers.<br>
-* Back-End Excellence: Capable of developing robust and scalable server-side applications, implementing APIs, and working with databases like MySQL and PostgreSQL.<br>
-* WebAssembly Pioneer: Understand the potential of WebAssembly and its ability to enhance application performance and functionality. Familiar with languages like Rust and C/C++ for compiling to WebAssembly.<br>
-* Blockchain Enthusiast: Possess a keen understanding of blockchain technology and its applications in various fields. Comfortable working with popular platforms like Ethereum and Hyperledger Fabric.<br>
-* Problem-Solving Skills: Strong analytical and problem-solving skills, adept at identifying technical challenges and implementing efficient solutions.<br>
-* Communication & Collaboration: Excellent communication and collaboration skills, enabling seamless interaction with team members and stakeholders.<br>
+* 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲: Possess extensive experience in building modern web applications using HTML, CSS, JavaScript (ES6+), ReactJS, NodeJS, ExpressJS, and various UI/UX libraries.<br>
+* 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐌𝐚𝐬𝐭𝐞𝐫𝐲: Adept at crafting clean, responsive, and user-friendly interfaces, ensuring optimal performance across devices and browsers.<br>
+* 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐄𝐱𝐜𝐞𝐥𝐥𝐞𝐧𝐜𝐞: Capable of developing robust and scalable server-side applications, implementing APIs, and working with databases like MySQL and PostgreSQL.<br>
+* 𝐖𝐞𝐛𝐀𝐬𝐬𝐞𝐦𝐛𝐥𝐲 𝐏𝐢𝐨𝐧𝐞𝐞𝐫: Understand the potential of WebAssembly and its ability to enhance application performance and functionality. Familiar with languages like Rust and C/C++ for compiling to WebAssembly.<br>
+* 𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭: Possess a keen understanding of blockchain technology and its applications in various fields. Comfortable working with popular platforms like Ethereum and Hyperledger Fabric.<br>
+* 𝐏𝐫𝐨𝐛𝐥𝐞𝐦-𝐒𝐨𝐥𝐯𝐢𝐧𝐠 𝐒𝐤𝐢𝐥𝐥𝐬: Strong analytical and problem-solving skills, adept at identifying technical challenges and implementing efficient solutions.<br>
+* 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 & 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: Excellent communication and collaboration skills, enabling seamless interaction with team members and stakeholders.<br>
 
 I am excited by the opportunity to join Redmi and leverage my skills and knowledge to develop innovative and cutting-edge web solutions. I am confident that my WebAssembly and blockchain expertise.
 
