@@ -22,11 +22,9 @@
   <a href="https://twitter.com/rihadjahanopu" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://youtube.com/@rihadjahanopu" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 </div>
-
 <!-- Brand logo-->
- <p align="center">
-  <img src="metlogo.svg" height="450" alt="Rihad Jahan Opu"> 
-</p>
+<img src="metlogo.svg" align="center" height="450" alt="Rihad Jahan Opu"> 
+
 <!-- About Me -->
 
 Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend 
