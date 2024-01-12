@@ -25,7 +25,7 @@
 <!-- Brand logo-->
 <br>
 <p align="center">
-<img src="logo.png" align="center" height="50" alt="Rihad Jahan Opu"> 
+<img src="logo.png" align="center" height="80" alt="Rihad Jahan Opu"> 
 </p>
 <!-- About Me -->
 Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend 
