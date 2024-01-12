@@ -24,7 +24,7 @@
 </div>
 <!-- Brand logo-->
 <p align="center">
-<img src="metlogo.svg" align="center" height="220" alt="Rihad Jahan Opu"> 
+<img src="logo.png" align="center" height="220" alt="Rihad Jahan Opu"> 
 </p>
 <!-- About Me -->
 
