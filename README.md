@@ -23,8 +23,9 @@
   <a href="https://youtube.com/@rihadjahanopu" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 </div>
 <!-- Brand logo-->
+<br>
 <p align="center">
-<img src="logo.png" align="center" height="120" alt="Rihad Jahan Opu"> 
+<img src="logo.png" align="center" height="50" alt="Rihad Jahan Opu"> 
 </p>
 <!-- About Me -->
 Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend 
