@@ -23,7 +23,7 @@
 <!-- Brand logo-->
 <br>
 <p align="center">
-<img src="idropcol.svg" align="center"  width="100%" alt="Rihad Jahan Opu"> 
+<img src="idropcol.svg" align="center"  width="250" alt="Rihad Jahan Opu"> 
 </p>
 
 <!-- About Me -->
@@ -92,7 +92,7 @@ I am an active member of the open-source community and I regularly contribute to
 <br><br>
 
 <p align="center">
-  <img src="stargazers.svg" width="450" alt="Rihad Jahan Opu"> 
+  <img src="stargazers.svg" width="100%" alt="Rihad Jahan Opu"> 
 </p>
 
 <a href="https://www.github.com/rihadjahanopu" target="_blank" rel="noreferrer"><img
