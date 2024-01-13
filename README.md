@@ -91,6 +91,9 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 I am an active member of the open-source community and I regularly contribute to popular projects. I am also a speaker at tech conferences and I write blog posts about web development.If you are looking for a Full Stack Developer who is passionate about building high-quality web applications, I encourage you to reach out to me. I’m currently working on
 <br><br>
 
+<p align="center">
+  <img src="stargazers.svg" width="450" alt="Rihad Jahan Opu"> 
+</p>
 
 <a href="https://www.github.com/rihadjahanopu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rihadjahanopu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/rihadjahanopu" target="_blank" rel="noreferrer"><img
