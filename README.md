@@ -1,7 +1,7 @@
 
 <!-- Header Image -->
  <p align="center">
-  <img src="mylovecodeing.png" height="450" alt="Rihad Jahan Opu"> 
+  <img src="git-cover.svg" height="450" alt="Rihad Jahan Opu"> 
 </p>
 <br>
 
