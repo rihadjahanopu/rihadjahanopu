@@ -1,7 +1,7 @@
 
 <!-- Header Image -->
  <p align="center">
-  <img src="git-cover.svg" width="450" alt="Rihad Jahan Opu"> 
+  <img src="git-cover.svg" width="450" alt="rihadjahanopu"> 
 </p>
 <!-- Title -->
 <h1 align="center">Rihad Jahan Opu</h1>
@@ -23,7 +23,7 @@
 <!-- Brand logo-->
 <br>
 <p align="center">
-<img src="idropcol.svg" align="center"  width="250" alt="Rihad Jahan Opu"> 
+<img src="idropcol.svg" align="center"  width="250" alt="rihadjahanopu"> 
 </p>
 
 <!-- About Me -->
@@ -183,7 +183,7 @@ Feel free to reach out on various social media platforms and my website. Let's c
 <h2 align="left">🐍 My Contributions</h2>
 <div align="center">
   
-  <img  alt="snake eating my contributions" src="github-snake.svg" />
+  <img  alt="snake eating my contributions" src="github-snake.svg"  width="100%" />
 <br/><br/>
 </div>
 
