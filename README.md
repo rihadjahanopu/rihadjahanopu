@@ -1,7 +1,7 @@
 
 <!-- Header Image -->
  <p align="center">
-  <img src="gitt.svg" width="100%" alt="rihadjahanopu"> 
+  <img src="git.svg" width="100%" alt="rihadjahanopu"> 
 </p>
 <!-- Title -->
 <h1 align="center">Rihad Jahan Opu</h1>
