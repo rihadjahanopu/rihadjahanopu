@@ -1,7 +1,7 @@
 
 <!-- Header Image -->
  <p align="center">
-  <img src="git.svg" width="80%" alt="rihadjahanopu"> 
+  <img src="idropcol.svg" width="80%" alt="rihadjahanopu"> 
 </p>
 <!-- Title -->
 <h1 align="center">Rihad Jahan Opu</h1>
@@ -23,7 +23,7 @@
 <!-- Brand logo-->
 <br>
 <p align="center">
-<img src="idropcol.svg" align="center"  width="250" alt="rihadjahanopu"> 
+<img src="single.svg" align="center"  width="250" alt="rihadjahanopu"> 
 </p>
 
 <!-- About Me -->
