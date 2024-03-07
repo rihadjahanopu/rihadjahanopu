@@ -22,9 +22,7 @@
 </div>
 <!-- Brand logo-->
 <br>
-<p align="center">
-<img src="logo.svg" align="center"  width="250" alt="Rihad Jahan Opu @rihadjahanopu"> 
-</p>
+
 
 <!-- About Me 
 
@@ -176,6 +174,9 @@ Feel free to reach out on various social media platforms and my website. Let's c
   <img  alt="snake eating my contributions" src="github-snake.svg"  width="100%" />
 <br/><br/>
 </div>
+<p align="center">
+<img src="logo.svg" align="center"  width="250" alt="Rihad Jahan Opu @rihadjahanopu"> 
+</p>
 
 <details>
 <summary>
