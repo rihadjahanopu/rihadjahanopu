@@ -26,11 +26,11 @@
 <img src="logo.svg" align="center"  width="250" alt="Rihad Jahan Opu @rihadjahanopu"> 
 </p>
 
-<!-- About Me -->
+<!-- About Me 
 
 Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend 
 =======================================================================================================================================
-
+-->
 <!--## My name is Rihad Jahan Opu Professional Full-Stack Web Developer -->
 
 ## About Me
