@@ -1,7 +1,7 @@
 
 <!-- Header Image -->
- <p align="center">
-  <img src="idroppro.svg" width="80%" alt="Rihad Jahan Opu @rihadjahanopu"> 
+ <p align="center" border-radius="20px"  >
+  <img src="dev.gif" width="100%" alt="Rihad Jahan Opu @rihadjahanopu"> 
 </p>
 <!-- Title -->
 <h1 align="center">Rihad Jahan Opu</h1>
