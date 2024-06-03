@@ -1,7 +1,7 @@
 
 <!-- Header Image -->
  <p align="center"   >
-  <img src="dev.gif" style="border-radius:50%" width="100%" alt="Rihad Jahan Opu @rihadjahanopu"> 
+  <img src="dev.gif" style="border-radius:50px" width="100%" alt="Rihad Jahan Opu @rihadjahanopu"> 
 </p>
 <!-- Title -->
 <h1 align="center">Rihad Jahan Opu</h1>
