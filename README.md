@@ -34,6 +34,7 @@ Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend
 * ⚡ &emsp;𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: PostgreSQL, MySQL, MongoDB<br>
 * ⚡ &emsp;𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴: AWS, Azure, GCP<br>
 * ⚡ &emsp;𝗗𝗲𝘃𝗢𝗽𝘀: Git, GitHub, GitLab, Docker, Kubernetes<br>
+* ⚡ &emsp;Runtime: Node, Deno, Bun<br>
 
 I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done
 
