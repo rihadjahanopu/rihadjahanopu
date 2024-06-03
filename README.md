@@ -1,11 +1,11 @@
 
 <!-- Header Image -->
  <p align="center"   >
-  <img src="dev.gif" style="border-radius:50px" width="100%" alt="Rihad Jahan Opu @rihadjahanopu"> 
+  <img src="dev.gif" style="border-radius:20;%" width="100%" alt="Rihad Jahan Opu @rihadjahanopu"> 
 </p>
 
 <!-- Title -->
-<h1 align="center">Rihad Jahan Opu</h1>
+<h1 align="center" style="color:red;">Rihad Jahan Opu</h1>
 <!-- Subtitle -->
 <p align="center">
   💻 Passionate Full-Stack Web Developer | 🚀 Tech Enthusiast
