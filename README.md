@@ -98,8 +98,7 @@ My passion for web development emerged after completing my higher secondary educ
 
 ## 🌟 Professional Accomplishments
 
-I have had the privilege of working on thrilling projects with companies in the cargo, music, and e-commerce sectors. I love working with code, and for me, it's like playing an exhilarating game. My ambition is to be recognized as the top developer in my country in the coming years.
-
+My professional journey has been enriched by engaging in diverse, high-impact projects across the cargo, music, and e-commerce industries. These experiences have honed my technical skills and deepened my understanding of the unique challenges and opportunities at the intersection of business and technology. My passion for coding transcends technical aspects; it's an intellectual challenge that I continually strive to overcome. This passion, coupled with a desire to make a positive impact, fuels my ambition to become a leading developer in Bangladesh. By continuously pushing the boundaries of what's possible, I aim to contribute meaningfully to the country's technological advancements and inspire the next generation of developers to pursue careers in this exciting field.
 <!-- Skills Section -->
 
 ## 💡 Skills
