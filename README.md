@@ -26,7 +26,7 @@
 
 Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend 
 =======================================================================================================================================
-## My name is Rihad Jahan Opu Professional Full-Stack Web Developer 
+My name is Rihad Jahan Opu Professional Full-Stack Web Developer 👨🏼‍💻🧑🏼‍💻 
 
 ## About Me
 
