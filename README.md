@@ -26,8 +26,7 @@
 
 Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend 
 =======================================================================================================================================
-My name is Rihad Jahan Opu Professional Full-Stack Web Developer 👨🏼‍💻🧑🏼‍💻 
-
+## My name is Rihad Jahan Opu Professional Full-Stack Web Developer 👨🏼‍💻
 ## About Me
 
 🔭 Hello, I'm Rihad Jahan Opu (rihadjahanopu) Professional Full-Stack Web Developer and tech enthusiast with over 3 years of experience in building and maintaining high-traffic web applications. I have a deep understanding of both front-end and back-end development, and I am proficient in a variety of technologies and languages, ``` 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
