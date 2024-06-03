@@ -4,11 +4,6 @@
   <img src="dev.gif" style="border-radius:50px" width="100%" alt="Rihad Jahan Opu @rihadjahanopu"> 
 </p>
 
-<div class="row post-image-bg" markdown="1">
-    <video width="100%" height="540" autoplay loop muted markdown="1">
-        <source src="dev.mp4" type="video/mp4" markdown="1" >   
-    </video>
-</div>
 <!-- Title -->
 <h1 align="center">Rihad Jahan Opu</h1>
 <!-- Subtitle -->
