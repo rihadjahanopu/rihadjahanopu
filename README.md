@@ -92,7 +92,7 @@ I am an active member of the open-source community and I regularly contribute to
 
 ## 🚀 Professional Journey
 
-My odyssey in the digital realm began immediately after completing my higher-secondary education. Fueled by an insatiable thirst for knowledge, I delved into the world of web development. Eager to expand my skill set, I embarked on a diploma in web development at "Shahjalal University of Science and Technology" in late 2021, marking my transition into the world of full-stack development.
+My passion for web development emerged after completing my higher secondary education. Driven by a desire to gain comprehensive technical expertise, I pursued a diploma in Web Development at the esteemed Shahjalal University of Science and Technology, starting in late 2021. This program equipped me with the essential skills and knowledge to transition into the role of a full-stack developer.
 
 <!-- Professional Accomplishments -->
 
