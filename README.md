@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">𝕽𝖎𝖍𝖆𝖉 𝕵𝖆𝖍𝖆𝖓 𝕺𝖕𝖚</h1>
+<h1 align="center">ℜ𝔦𝔥𝔞𝔡 𝔍𝔞𝔥𝔞𝔫 𝔒𝔭𝔲</h1>
 
 <!-- Subtitle -->
 <p align="center">
