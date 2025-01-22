@@ -29,7 +29,7 @@
 
 ## About Me
 
-🔭 Hello, I'm Rihad Jahan Opu (rihadjahanopu) Professional Full-Stack Web Developer and tech enthusiast with over 3 years of experience in building and maintaining high-traffic web applications. I have a deep understanding of both front-end and back-end development, and I am proficient in a variety of technologies and languages, ``` 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
+🔭 Hello, I'm Rihad Jahan Opu, a Full-Stack Developer with a passion for building exceptional web and mobile applications. My core expertise lies in ReactJS, NextJS, Node.js, and React Native, enabling me to create secure, high-performance solutions for businesses of all sizes. I excel in both front-end and back-end development, ensuring seamless user experiences and robust functionality. Whether you require a dynamic website, a scalable API, or a cross-platform mobile app, I'm dedicated to delivering tailored solutions that meet your specific needs and exceed your expectations. Let's collaborate to bring your project vision to life with precision and creativity and I am proficient in a variety of technologies and languages, ``` 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
 * ⚡ &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS<br>
 * ⚡ &emsp;𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, Python, Django, Deno<br>
 * ⚡ &emsp;𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: PostgreSQL, MySQL, MongoDB<br>
