@@ -168,7 +168,7 @@ My professional journey has been enriched by engaging in diverse, high-impact pr
 <br/><br/>
 </div>
 <p align="center">
-<img src="githublogo.svg" align="center"  width="250" alt="Rihad Jahan Opu @rihadjahanopu"> 
+<img src="githublogomake.svg" align="center"  width="250" alt="Rihad Jahan Opu @rihadjahanopu"> 
 </p>
 
 <details>
