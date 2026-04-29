@@ -187,6 +187,10 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 #### Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rihadjahanopu&theme=react&hide_border=true)<br/>
+
+<img  alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"  width="100%" />
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
