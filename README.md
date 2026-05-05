@@ -39,6 +39,8 @@
 
 I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done
 
+<!--  
+
 💻My Skills and Experience
 --------------------------
 * 🧠 &emsp;𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲: Possess extensive experience in building modern web applications using HTML, CSS, JavaScript (ES6+), ReactJS, NodeJS, ExpressJS, and various UI/UX libraries.<br>
@@ -69,6 +71,8 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 * 🤝 &emsp;Experience with cloud computing and DevOps tools<br>
 * 🤝 &emsp;Excellent problem-solving and debugging skills<br>
 * 🤝 &emsp;Ability to work independently and as part of a team
+
+-->
 
 🪪 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 ------------------------
