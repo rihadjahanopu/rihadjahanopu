@@ -74,7 +74,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
 -->
 
-🪪 Additional Information:
+🪪 Additional Information
 ------------------------
 * :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 * :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
