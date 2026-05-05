@@ -171,10 +171,13 @@ My professional journey has been enriched by engaging in diverse, high-impact pr
   <img  alt="snake eating my contributions" src="github-snake.svg"  width="100%" />
 <br/><br/>
 </div>
+
+<!--
+
 <p align="center">
 <img src="gif.gif" align="center"  width="100%" alt="Rihad Jahan Opu @rihadjahanopu"> 
 </p>
-
+ -->
 <details>
 <summary>
   You wanna know more about me?
