@@ -166,7 +166,15 @@ My professional journey has been enriched by engaging in diverse, high-impact pr
 <p> Are you passionate about shaping the future of technology? Let’s connect and make it happen! I’m active on various social media platforms and have a website dedicated to exploring the latest trends. Whether you’re interested in collaborating on exciting projects, engaging in stimulating discussions, or sharing your unique tech insights, there’s a space for you. Together, we can foster a vibrant community that pushes the boundaries of innovation. Join us and be a part of the tech revolution!</p>
 <br>
 
+# 📊 GitHub Stats
 
+<p align="center" width="100%"  >
+  <img src="https://github-readme-stats.shion.dev/api?username=rihadjahanopu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=rihadjahanopu&theme=dark&hide_border=false" width="100%" height="200"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rihadjahanopu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" height="200"/>
+</p>
+
+<!-- Connect Section 
 
 # 📊 GitHub Stats:
 
@@ -174,11 +182,10 @@ My professional journey has been enriched by engaging in diverse, high-impact pr
 ![](https://streak-stats.demolab.com/?user=rihadjahanopu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rihadjahanopu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+-->
 
 [![](https://visitcount.itsvg.in/api?id=rihadjahanopu&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!--
 
 
 
