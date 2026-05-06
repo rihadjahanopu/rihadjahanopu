@@ -168,10 +168,9 @@ My professional journey has been enriched by engaging in diverse, high-impact pr
 
 # 📊 GitHub Stats
 
-<p align="center" width="100%"  >
-  <img src="https://github-readme-stats.shion.dev/api?username=rihadjahanopu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="10%" height="200"/>
-  <img src="https://streak-stats.demolab.com/?user=rihadjahanopu&theme=dark&hide_border=false" width="20%" height="200"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rihadjahanopu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" height="200"/>
+<p   >
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rihadjahanopu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="1000%" height="200"/>
 </p>
 
 <!-- Connect Section 
