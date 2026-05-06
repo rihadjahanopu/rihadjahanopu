@@ -163,46 +163,25 @@ My professional journey has been enriched by engaging in diverse, high-impact pr
 <!-- Connect Section -->
 ## 📬 Let's Connect
 
- Are you passionate about shaping the future of technology? Let’s connect and make it happen! I’m active on various social media platforms and have a website dedicated to exploring the latest trends. Whether you’re interested in collaborating on exciting projects, engaging in stimulating discussions, or sharing your unique tech insights, there’s a space for you. Together, we can foster a vibrant community that pushes the boundaries of innovation. Join us and be a part of the tech revolution!
+<p> Are you passionate about shaping the future of technology? Let’s connect and make it happen! I’m active on various social media platforms and have a website dedicated to exploring the latest trends. Whether you’re interested in collaborating on exciting projects, engaging in stimulating discussions, or sharing your unique tech insights, there’s a space for you. Together, we can foster a vibrant community that pushes the boundaries of innovation. Join us and be a part of the tech revolution!</p>
 <br>
-<h2 align="left">🐍 My Contributions</h2>
-<div align="center">
-  
-  <img  alt="snake eating my contributions" src="github-snake.svg"  width="100%" />
-<br/><br/>
-</div>
+
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=rihadjahanopu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rihadjahanopu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rihadjahanopu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+[![](https://visitcount.itsvg.in/api?id=rihadjahanopu&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!--
 
-<p align="center">
-<img src="gif.gif" align="center"  width="100%" alt="Rihad Jahan Opu @rihadjahanopu"> 
-</p>
- -->
-<details>
-<summary>
-  You wanna know more about me?
-</summary>
 
-<br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Rihad Jahan Opu Youtube Channel exists!
-
-#### What is Rihad Jahan Opu?
-
-"Rihad Jahan Opu" is all about teaching web development skills and techniques efficiently and practically. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Rihad Jahan Opu" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
-
-#### Github Stats
-![](https://github-readme-stats.vercel.app/api?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rihadjahanopu&theme=react&hide_border=true)<br/>
-
-<img  alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"  width="100%" />
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rihadjahanopu&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</details>
-
-[![](https://visitcount.itsvg.in/api?id=rihadjahanopu&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
 
