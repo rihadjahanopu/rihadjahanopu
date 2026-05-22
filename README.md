@@ -75,7 +75,7 @@ I have had the privilege of working on thrilling projects with companies in the 
 * :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 * :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 * 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-* :e-mail: &emsp;You can contact me at [`itrihad@gmail.com`](mailto:itrihad@gmail.com)<br/>
+* :e-mail: &emsp;You can contact me at [`rihad@rihadjahanopu.com`](mailto:rihad@rihadjahanopu.com)<br/>
 * 🏢 &emsp;Fun fact: I founded my Software Solution company  Gladepik.
 * 🌍 &emsp;I'm based in Bangladesh
 * 🖥️ &emsp;See my portfolio at [`Website`](http://rihadjahanopu.com)
